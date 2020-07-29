@@ -40900,10 +40900,10 @@ A.qa.prototype={
 J:function(a){var t=null
 return N.XF(H.b([new O.mT(L.oq(C.tN,C.j,t),new A.N3()).bF(),new T.aW(20,t,t,t),new O.mT(L.oq(C.tM,C.j,t),new A.N4()).bF(),new T.aW(20,t,t,t),new O.mT(L.oq(C.tJ,C.j,t),new A.N5()).bF(),new T.aW(20,t,t,t),new O.mT(L.oq(C.tI,C.j,t),new A.N6()).bF()],u.t),t)}}
 A.N3.prototype={
-$0:function(){T.k3("https://twitter.com/imthepk")},
+$0:function(){T.k3("https://twitter.com/Shashan00372707")},
 $S:0}
 A.N4.prototype={
-$0:function(){T.k3("https://instagram.com/codepur_ka_superhero")},
+$0:function(){T.k3("https://instagram.com/shashank.shashikumar")},
 $S:0}
 A.N5.prototype={
 $0:function(){T.k3("https://youtube.com/coming_soon_shashank_shashi_kumar")},
