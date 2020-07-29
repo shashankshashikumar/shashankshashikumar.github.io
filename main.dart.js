@@ -40873,7 +40873,7 @@ p=new L.dI("Contact Me!",o,o)
 p.bt$=p
 return new F.eX(H.b([new F.eX(t,o,o,o,o),new T.aW(o,50,new D.xE(new A.Jd(),o,o,o,o,C.nk,o,q,o,o,o,s,o,o,o,o,o,o,o,p.bF(),o,o,n,C.aJ,o,!1,o,o,o),o)],r),C.of,C.aK,C.b6,o)}}
 A.Jd.prototype={
-$0:function(){T.k3("https://mtechviral.com")},
+$0:function(){T.k3("mailto:shashank.ronaldo9@gmail.com")},
 $S:0}
 A.nM.prototype={
 J:function(a){return L.oq(C.tK,$.hi(),50)}}
